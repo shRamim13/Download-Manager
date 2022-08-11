@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IDMSUST:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IDMSUST_jar</output-path>
+    <root id="archive" name="IDMSUST.jar">
+      <element id="module-output" name="IDMSUST" />
+    </root>
+  </artifact>
+</component>
